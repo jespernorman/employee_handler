@@ -1,0 +1,4 @@
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/User/obj/Debug/netcoreapp3.1/User.csprojAssemblyReference.cache
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/User/obj/Debug/netcoreapp3.1/User.AssemblyInfoInputs.cache
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/User/obj/Debug/netcoreapp3.1/User.AssemblyInfo.cs
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/User/obj/Debug/netcoreapp3.1/User.csproj.CoreCompileInputs.cache

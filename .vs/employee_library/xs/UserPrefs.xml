@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{59345DCC-39B6-41E2-BE3C-676E90688873}|Default">
+  <MonoDevelop.Ide.ItemProperties.AdminApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="User/Program.cs">
+    <Files>
+      <File FileName="admin/Program.cs" Line="4" Column="19" />
+      <File FileName="ClassLibrary/Class1.cs" Line="14" Column="1" />
+      <File FileName="ClassLibrary/UserFile.cs" Line="5" Column="19" />
+      <File FileName="ClassLibrary/Admin.cs" Line="47" Column="26" />
+      <File FileName="User/Program.cs" Line="12" Column="8" />
+      <File FileName="ClassLibrary/User.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="employee_library" expanded="True">
+            <Node name="admin" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="ClassLibrary" expanded="True" />
+            <Node name="User" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

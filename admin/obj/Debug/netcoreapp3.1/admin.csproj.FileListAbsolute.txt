@@ -1,0 +1,15 @@
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/admin/bin/Debug/netcoreapp3.1/admin.deps.json
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/admin/bin/Debug/netcoreapp3.1/admin.runtimeconfig.json
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/admin/bin/Debug/netcoreapp3.1/admin.runtimeconfig.dev.json
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/admin/bin/Debug/netcoreapp3.1/admin.dll
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/admin/bin/Debug/netcoreapp3.1/admin.pdb
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/admin/obj/Debug/netcoreapp3.1/admin.csprojAssemblyReference.cache
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/admin/obj/Debug/netcoreapp3.1/admin.AssemblyInfoInputs.cache
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/admin/obj/Debug/netcoreapp3.1/admin.AssemblyInfo.cs
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/admin/obj/Debug/netcoreapp3.1/admin.csproj.CoreCompileInputs.cache
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/admin/obj/Debug/netcoreapp3.1/admin.csproj.CopyComplete
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/admin/obj/Debug/netcoreapp3.1/admin.dll
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/admin/obj/Debug/netcoreapp3.1/admin.pdb
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/admin/obj/Debug/netcoreapp3.1/admin.genruntimeconfig.cache
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/admin/bin/Debug/netcoreapp3.1/ClassLibrary.dll
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/admin/bin/Debug/netcoreapp3.1/ClassLibrary.pdb

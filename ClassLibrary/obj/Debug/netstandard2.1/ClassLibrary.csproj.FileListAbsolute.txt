@@ -1,0 +1,9 @@
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/ClassLibrary/obj/Debug/netstandard2.1/ClassLibrary.AssemblyInfoInputs.cache
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/ClassLibrary/obj/Debug/netstandard2.1/ClassLibrary.AssemblyInfo.cs
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/ClassLibrary/obj/Debug/netstandard2.1/ClassLibrary.csproj.CoreCompileInputs.cache
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/ClassLibrary/bin/Debug/netstandard2.1/ClassLibrary.deps.json
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/ClassLibrary/bin/Debug/netstandard2.1/ClassLibrary.dll
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/ClassLibrary/bin/Debug/netstandard2.1/ClassLibrary.pdb
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/ClassLibrary/obj/Debug/netstandard2.1/ClassLibrary.dll
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/ClassLibrary/obj/Debug/netstandard2.1/ClassLibrary.pdb
+/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/ClassLibrary/obj/Debug/netstandard2.1/ClassLibrary.csprojAssemblyReference.cache

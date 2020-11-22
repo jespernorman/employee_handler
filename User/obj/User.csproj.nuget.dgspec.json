@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/User/User.csproj": {}
+  },
+  "projects": {
+    "/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/ClassLibrary/ClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/ClassLibrary/ClassLibrary.csproj",
+        "projectName": "ClassLibrary",
+        "projectPath": "/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/ClassLibrary/ClassLibrary.csproj",
+        "packagesPath": "/Users/jespernorman/.nuget/packages/",
+        "outputPath": "/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/ClassLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jespernorman/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/User/User.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/User/User.csproj",
+        "projectName": "User",
+        "projectPath": "/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/User/User.csproj",
+        "packagesPath": "/Users/jespernorman/.nuget/packages/",
+        "outputPath": "/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/User/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jespernorman/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/ClassLibrary/ClassLibrary.csproj": {
+                "projectPath": "/Users/jespernorman/Projects/workspace/oop_csharp/employee_handler/ClassLibrary/ClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
